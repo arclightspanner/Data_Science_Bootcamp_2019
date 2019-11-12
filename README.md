@@ -2,7 +2,7 @@
 Modeling Player Performance in Battlefield 4
 
 ## Keywords
-Videogame, Battlefield 4, Player Statistics, Player Reflex, Performance
+Videogame, Battlefield 4, Player Statistics, Machine Learning
 
 ## Objective
 Battlefield 4 is a first person shooter game distributed worldwide on various console
@@ -16,4 +16,4 @@ as well as what weapons and vehicles they used, how accurate their weapon usage 
 within the game and how effective they are with certain vehicles. With the data
 collected, the capstone summarizes what separates top Battlefield 4 players from the
 rest of the player base and also attempts to find additional patterns that is reflected by
-the game data
+the game data.
